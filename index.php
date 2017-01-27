@@ -11,7 +11,6 @@
 <center style="min-height: 400px">
 <?php 
 	// Required Files
-	require_once( 'dbConnection.php' );
 	require_once( 'functions.php' );
 
 	$con = db_connection();
