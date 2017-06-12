@@ -1,29 +1,19 @@
-# README #
+# Smart Taxi Meter #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+# Instruments
+-------------
 
-### What is this repository for? ###
+1. Arduino Mega
+2. Encoder
+3. SIM 908
+4. Web Server
+5. 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+# Features
+----------
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+1. 
+2. 
+3. 
+4. 
+5.
