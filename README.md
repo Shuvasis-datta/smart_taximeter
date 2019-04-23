@@ -7,13 +7,5 @@
 2. Encoder
 3. SIM 908
 4. Web Server
-5. 
+5. RFID
 
-# Features
-----------
-
-1. 
-2. 
-3. 
-4. 
-5.
