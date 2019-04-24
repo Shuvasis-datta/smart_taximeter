@@ -2,10 +2,10 @@
 
 function db_connection(){
 
-	define("DB_HOST", "localhost");
-	define("DB_USER", "cuetrma_test");
-	define("DB_PASSWORD", "85lxyogJi24M");
-	define("DB_DATABASE", "cuetrma_smarttaximeter");
+	define("DB_HOST", "db_host");
+	define("DB_USER", "db_user");
+	define("DB_PASSWORD", "db_pass");
+	define("DB_DATABASE", "db_name");
 
 	 
 	$conn = new mysqli( DB_HOST , DB_USER, DB_PASSWORD, DB_DATABASE );
