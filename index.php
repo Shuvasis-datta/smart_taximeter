@@ -47,7 +47,7 @@
 ?>	
 </center>
 <footer>
-	<br/><hr/><center><p style="color:gray;">This project is done by Md. Shahab Uddin & Mir Rifat Siyam and supervised by Dr. Mohammad Rubaiyat Tanvir Hossain</p></center>
+	<br/><hr/><center><p style="color:gray;">This project is done by Shuvasis Datta, Md. Shahab Uddin & Mir Rifat Siyam and supervised by Dr. Mohammad Rubaiyat Tanvir Hossain</p></center>
 </footer>
 </body>
 </html>
